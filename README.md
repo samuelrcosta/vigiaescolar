@@ -12,8 +12,8 @@ Esse projeto tem o objetivo de exercitar um bom planejamento e gerenciamento de 
 * [Plano de Gerenciamento dos Custos](https://github.com/samuelrcosta/vigiaescolar/blob/master/Planejamento/Planos/Plano%20de%20Gerenciamento%20dos%20Custos.docx)
 * [Plano de Gerenciamento das Partes Interessadas](https://github.com/samuelrcosta/vigiaescolar/blob/master/Planejamento/Planos/Plano%20de%20Gerenciamento%20das%20Partes%20Interessadas.docx)
 * [Plano de Gerenciamento da Qualidade](https://github.com/samuelrcosta/vigiaescolar/blob/master/Planejamento/Planos/Plano%20de%20Gerenciamento%20da%20Qualidade.docx)
-* [Plano de Gerenciamento de Recursos Humanos](https://github.com/samuelrcosta/vigiaescolar/blob/master/Planejamento/Planos/Plano%20de%20Gerenciamento%20dos%20Custos.docx)
-* [Plano de Gerenciamento das Comunicações](https://github.com/samuelrcosta/vigiaescolar/blob/master/Planejamento/Planos/Plano%20de%20Gerenciamento%20dos%20Custos.docx)
+* [Plano de Gerenciamento de Recursos Humanos](https://github.com/samuelrcosta/vigiaescolar/blob/master/Planejamento/Planos/Plano%20de%20Gerenciamento%20de%20Recursos%20Humanos.docx)
+* [Plano de Gerenciamento das Comunicações](https://github.com/samuelrcosta/vigiaescolar/blob/master/Planejamento/Planos/Plano%20de%20Gerenciamento%20das%20Comunica%C3%A7%C3%B5es.docx)
 
 ## Integrantes:
 - [Samuel Rocha Costa](https://github.com/samuelrcosta)
